@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.col-6 {
+  width: 50%;
+}
+.point{
+  display: inline-block;
+  margin-left: 300px;
+}
+.gema-img{
+
+}
